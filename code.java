@@ -8,7 +8,7 @@ class life
     while(t-->0)
     {	
 	int q=0;
-	String s[]=new String[3]
+	String s[]=new String[3];
 	s[0]=sc.nextLine();
 	s[1]=sc.nextLine();
 	s[2]=sc.nextLine();
